@@ -8,7 +8,8 @@ A - B
 D <- diag(c(4, 1, 2, 3))
 D
 
-M <- diag(3, 5)
+M <- matrix(0, nrow = 5, ncol = 5)
+diag(M) <- 3
 M[1, 2:5] <- 1
 M[2:5, 1] <- 2
 M
