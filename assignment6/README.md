@@ -1,0 +1,1 @@
+https://lis6371ab.blogspot.com/2026/10/assignment-6.html
